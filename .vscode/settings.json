@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9734ed68-621d-47ed-babd-269110dbacb1/resourceGroups/1-ccffe297-playground-sandbox/providers/Microsoft.Web/sites/myNewDbWebApp",
+    "appService.deploySubpath": "learningapp\\bin\\Publish"
+}
