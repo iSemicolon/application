@@ -65,3 +65,4 @@ C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp
 C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\obj\Release\net8.0\learningapp.pdb
 C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\obj\Release\net8.0\learningapp.genruntimeconfig.cache
 C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\obj\Release\net8.0\ref\learningapp.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\obj\Release\net8.0\learningapp.sourcelink.json
