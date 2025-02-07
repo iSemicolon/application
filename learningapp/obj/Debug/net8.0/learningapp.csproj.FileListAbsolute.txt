@@ -139,3 +139,7 @@ C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp
 C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Debug\net8.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
 C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Debug\net8.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
 C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\obj\Debug\net8.0\learningapp.sourcelink.json
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Debug\net8.0\Microsoft.FeatureManagement.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Debug\net8.0\Microsoft.FeatureManagement.AspNetCore.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\obj\Debug\net8.0\learningapp.MvcApplicationPartsAssemblyInfo.cs

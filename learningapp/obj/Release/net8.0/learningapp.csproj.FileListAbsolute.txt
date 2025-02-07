@@ -66,3 +66,13 @@ C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp
 C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\obj\Release\net8.0\learningapp.genruntimeconfig.cache
 C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\obj\Release\net8.0\ref\learningapp.dll
 C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\obj\Release\net8.0\learningapp.sourcelink.json
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Release\net8.0\Azure.Data.AppConfiguration.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Release\net8.0\Azure.Messaging.EventGrid.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Release\net8.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Release\net8.0\DnsClient.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Release\net8.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Release\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Release\net8.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Release\net8.0\Microsoft.FeatureManagement.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\bin\Release\net8.0\Microsoft.FeatureManagement.AspNetCore.dll
+C:\Users\PalashSamanta\Documents\Demo Project\AZURE-DEMO\application\learningapp\obj\Release\net8.0\learningapp.MvcApplicationPartsAssemblyInfo.cs
