@@ -1,7 +1,7 @@
+
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.Data.SqlClient;
-
+using Newtonsoft.json;
 namespace learningapp.Pages;
 
 public class IndexModel : PageModel
@@ -14,7 +14,7 @@ public class IndexModel : PageModel
         _logger = logger;
         _configuration=configuration;
     }
-
+/*
     public void OnGet()
     {
        
@@ -36,4 +36,22 @@ public class IndexModel : PageModel
                 }
          }
     }
+    */
+
+    //invocation through function app
+
+    public async Task<IActionResult> OnGet()
+    {
+       
+        string functionURL="https://mytestfunctionappdemo.azurewebsites.net/api/appFunction";
+        using(HttpClient client=new HttpClient())
+        {
+            HttpResponseMessage response= await client.GetAsync(functionURL);
+            string content= await response.Content.ReadAsStringAsync();
+            Courses=JsonContent.DeserializeObject<List<Course>>(content);
+            return Page();
+        }       
+        
+    }
+
 }
